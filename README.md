@@ -146,6 +146,5 @@ Now you are good to go. if any issue check AWS security groups ```port``` is ope
 <b>If you face any quarry for this project feel free to contact me. I will try my best. Thank you</b>
 
 ```
-https://www.linkedin.com/in/bjnandi/
 ```
 
